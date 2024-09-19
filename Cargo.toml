@@ -1,0 +1,10 @@
+[package]
+name = "graphia"
+version = "0.1.0"
+edition = "2021"
+authors = ["Zack Brown <zack@pax.dev>"]
+license = "MIT"
+description = "A simple graph data structure"
+repository = "https://github.com/paxdotdev/graphia"
+
+[dependencies]
